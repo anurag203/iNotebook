@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anurag203/iNotebook.git/static/css/main.598a6723.css",
+    "main.js": "/anurag203/iNotebook.git/static/js/main.a5a7df92.js",
+    "index.html": "/anurag203/iNotebook.git/index.html",
+    "main.598a6723.css.map": "/anurag203/iNotebook.git/static/css/main.598a6723.css.map",
+    "main.a5a7df92.js.map": "/anurag203/iNotebook.git/static/js/main.a5a7df92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.598a6723.css",
+    "static/js/main.a5a7df92.js"
+  ]
+}
